@@ -66,6 +66,115 @@ namespace Course
             Console.WriteLine("==============USANDO CONCATENAÇÃO==========");
             Console.WriteLine(nome+" tem " +z+" de idade e possui saldo de R$ "+saldo.ToString("f2")+" em conta.");
 
+            Console.WriteLine("=================OPERADORES DE ATRIBUIÇÃO==============");
+            int a = 10;
+            Console.WriteLine($"Variavle a vale 10: {a}");
+            a += 2;
+            Console.WriteLine($"Variavel a acrescido de 2 com operador +=: {a}");
+            a *= 3;
+            Console.WriteLine($"Variavel a que já tinha acrescido o valor 2 com += agora é multiplicada por 3 copm operador *=: {a}");
+            string str1 = "ABC";
+            Console.WriteLine($"str1: {str1}");
+            string str2 = "DEF";
+            Console.WriteLine($"str2: {str2}");
+            Console.WriteLine($"str1 concatenada com str2 usando operador += {str1+=str2}");
+            Console.WriteLine("Operadores aritméticos de atribuição");
+            int x1 = 10;
+            Console.WriteLine($"Variavel x1 {x1}");
+            x1++;
+            Console.WriteLine($"Variavel x1 acrescida de 1 usando operador ++ {x1}");
+            x1--;
+            Console.WriteLine($"Se uma var x1 = 10 e eu crio uma variavel int x2 e atribui a essa variavel x1++,");
+            Console.WriteLine($"a variavel x2 vai valer 10, pois primeiro eu atribui a ela o valor de x1 e depois eu acresci o valor");
+            int x2 = x1++;
+            Console.WriteLine($"Valor de variavel x2 recebendo x1++ {x2}");
+            Console.WriteLine($"Agora uma variavel x3 que recebe o valor ++x1,");
+            Console.WriteLine($"vai valer 11, pois primeiro o valor de x1 e´acrescido e depois atribuido a x3");
+            x1--;
+            int x3 = ++x1;
+            Console.WriteLine($"Valor de variavel x3 recebendo ++x1 {x3}");
+            Console.WriteLine("");
+            Console.WriteLine("=================CONVERSÃSO IMPLICITA DE VALORES==============");
+            Console.WriteLine("");
+            float xfl = 4.5f;
+            Console.WriteLine($"Variavel float xfl = {xfl}");
+            Console.WriteLine("Podemos criar uma var tipo double (que suporta 8 bytes) recebendo");
+            Console.WriteLine("o valro de xfl que é do tipo float (suporte de 4 bytes)");
+            double xdb = xfl;
+            Console.WriteLine($"Variavel double xdb recebendo valor de xfl {xdb}");
+            Console.WriteLine("");
+            Console.WriteLine("Para o contrario, seria necessário fazer um casting do valor");
+            Console.WriteLine("estando ciente da possibilidade de perda de dados em função da limitação de bytes suportada");
+            Console.WriteLine("pelo tipo de variavel");
+            double ydb = 5.1;
+            Console.WriteLine($"Variavel double ydb = {ydb}");
+            float yfl = (float)ydb;
+            Console.WriteLine($"Variavel float yfl recebe valro de variavel double ydb por casting;");
+            Console.WriteLine($"float yfl = (float)ydb");
+            Console.WriteLine($"yfl = {yfl}");
+            Console.WriteLine($"Uma variavel do tipo double sendo atribuida a uma");
+            Console.WriteLine($"variavel de tipo int perde balores. Os valores ficarão truncados");
+            double adb = 5.1;
+            Console.WriteLine($"double adb = 5.1");
+            int bin = (int)adb;
+            Console.WriteLine($"Variavel int bin = (int)adb = {bin}");
+            Console.WriteLine($"Valor foi arredondado no casting");
+            Console.WriteLine($"");
+            Console.WriteLine($"Variavies tipo double que recebem valores de operações aritmeticas com valores de tipo int");
+            Console.WriteLine($"precisam ser atribuidas via casting.");
+            Console.WriteLine($"Exemplo:");
+            int aint = 5;
+            int bint = 2;
+            double resultadoSemCasting = aint / bint;
+            Console.WriteLine($"int aint = 5 / int bint = 2");
+            Console.WriteLine($"aint / bint = {resultadoSemCasting}");
+            double resultadoComCasting = (double) aint / bint;
+            Console.WriteLine($"(double) aint / bint = {resultadoComCasting}");
+            Console.WriteLine("");
+            Console.WriteLine("=================Operadores aritméticos==============");
+            Console.WriteLine("");
+            int n1 = 3 + 4 * 2;
+            Console.WriteLine($"int n1 = 3 + 4 * 2 | n1 = {n1}");
+            int n2 = (3 + 4) * 2;
+            Console.WriteLine($"int n1 = (3 + 4) * 2 | n2 = {n2}");
+            int n3 = 17 % 3;
+            Console.WriteLine($"int n3 = 17 % 3 | n3 = {n3}");
+            int n4 = 10 / 8;
+            Console.WriteLine($"int n4 = 10 / 8 | n4 = {n4}");
+            double n5 = 10 / 8;
+            Console.WriteLine($"double n5 = 10 / 8 | n5 = {n5}");
+            double n6 = (double) 10 / 8;
+            Console.WriteLine($"double n6 = (double) 10 / 8 | n6 = {n6}");
+            double n7 = 10.0 / 8.0;
+            Console.WriteLine($"double n7 = 10.0 / 8; | n7 = {n7}");
+
+
+            Console.WriteLine($"");
+            Console.WriteLine($"=====Equação de 2º grau (Formula de Baskara)=====");
+
+            double a1 = 1.0, b1 = -3.0, c1 = -4.0;
+            Console.WriteLine($"double a1 = 1.0, b1 = -3.0, c1 = -4.0;");
+
+            double delta = Math.Pow(b1, 2.0) - 4.0 * a1 * c1;
+            Console.WriteLine($"double delta = Math.Pow(b1, 2.0) - 4.0 * a1 * c1 | delta = {delta}");
+
+            double bsk = (-b1 + Math.Sqrt(delta)) / (2.0 * a1);
+            Console.WriteLine($"double bsk = (-b1 + Math.Sqrt(delta)) / (2.0 * a1) | bsk = {bsk}");
+
+
+
+
+            Console.WriteLine($"");
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("");
+
+
+
+
         }
     }
 }

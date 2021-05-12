@@ -8,19 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\pier\\.nuget\\packages\\": {}
+    "C:\\Users\\pier\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\temp\\projetos\\Course\\Course.csproj",
+      "projectUniqueName": "R:\\cursoCSharp\\projetos\\Course\\Course.csproj",
       "projectName": "Course",
-      "projectPath": "Z:\\temp\\projetos\\Course\\Course.csproj",
+      "projectPath": "R:\\cursoCSharp\\projetos\\Course\\Course.csproj",
       "packagesPath": "C:\\Users\\pier\\.nuget\\packages\\",
-      "outputPath": "Z:\\temp\\projetos\\Course\\obj\\",
+      "outputPath": "R:\\cursoCSharp\\projetos\\Course\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\pier\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

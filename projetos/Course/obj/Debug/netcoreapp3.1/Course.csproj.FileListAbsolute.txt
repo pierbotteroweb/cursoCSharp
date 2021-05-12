@@ -37,3 +37,16 @@ E:\temp\projetos\Course\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.
 E:\temp\projetos\Course\obj\Debug\netcoreapp3.1\Course.dll
 E:\temp\projetos\Course\obj\Debug\netcoreapp3.1\Course.pdb
 E:\temp\projetos\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache
+R:\cursoCSharp\projetos\Course\bin\Debug\netcoreapp3.1\Course.exe
+R:\cursoCSharp\projetos\Course\bin\Debug\netcoreapp3.1\Course.deps.json
+R:\cursoCSharp\projetos\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+R:\cursoCSharp\projetos\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+R:\cursoCSharp\projetos\Course\bin\Debug\netcoreapp3.1\Course.dll
+R:\cursoCSharp\projetos\Course\bin\Debug\netcoreapp3.1\Course.pdb
+R:\cursoCSharp\projetos\Course\obj\Debug\netcoreapp3.1\Course.csprojAssemblyReference.cache
+R:\cursoCSharp\projetos\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+R:\cursoCSharp\projetos\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+R:\cursoCSharp\projetos\Course\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+R:\cursoCSharp\projetos\Course\obj\Debug\netcoreapp3.1\Course.dll
+R:\cursoCSharp\projetos\Course\obj\Debug\netcoreapp3.1\Course.pdb
+R:\cursoCSharp\projetos\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache

@@ -17,11 +17,11 @@ namespace Exercicios{
             double medida = 53.234567;
 
             Console.WriteLine("Produtos:");
-            Console.WriteLine("{0}; cujo preço é ${1:F2}", produto1, preco1);
+            Console.WriteLine("{0}: cujo preço é ${1:F2}", produto1, preco1);
             Console.WriteLine($"{produto2}; cujo preço é ${preco2:F2}");
             Console.WriteLine($"Registro: {idade} anos de idade, código {codigo} e genero: {genero}");
             Console.WriteLine($"Medida com oito casas decimais: {medida:F8}");
-            Console.WriteLine($"Arredondado (trÊs casas decimais): {medida:F3}");
+            Console.WriteLine($"Arredondado (três casas decimais): {medida:F3}");
             Console.WriteLine($"Separador decimal invariant culture): {medida.ToString("F3",CultureInfo.InvariantCulture)}");
         }
     }
