@@ -162,6 +162,49 @@ namespace Course
             Console.WriteLine($"double bsk = (-b1 + Math.Sqrt(delta)) / (2.0 * a1) | bsk = {bsk}");
 
 
+            Console.WriteLine($"");
+            Console.WriteLine($"=====ENTRADA DE DADOS EM C#=====");
+            Console.WriteLine($"");
+            Console.WriteLine($"O Console.ReadLine quando executado, faz com que o texto inserido no console");
+            Console.WriteLine($"seja atribuido a uma variavel");
+            string frase = Console.ReadLine();
+            Console.WriteLine($"string frase = Console.ReadLine();");
+            Console.WriteLine($"Você digitou: {frase}");
+            string xRead = Console.ReadLine();
+            string yRead = Console.ReadLine();
+            string zRead = Console.ReadLine();
+            Console.WriteLine($"");
+            Console.WriteLine($"Para distribuir em variaveis diferentes um input de texto");
+            Console.WriteLine($"em uma mesma linha, separados por um caractede x (espaço por exemplo)");
+            Console.WriteLine($"pegamos o conteudo da linha e atribuimos a uma variavel array");
+            Console.WriteLine($"e usamos o Split para informar qual caractere deve ser usado para a separação");
+            string s = Console.ReadLine();
+            Console.WriteLine($"string s = Console.ReadLine();");
+            Console.WriteLine("a var s recebe o texto 'Amarelo Laranja Cinza', com as palavras separadas por espaço");
+            string[] vet = s.Split(' ');
+            Console.WriteLine("string[] vet = s.Split(' ')");
+            Console.WriteLine("a variavel vet vai receber o conteudo do texto e atribuir cada palavra a uma var diferente");
+            string aVet = vet[0];
+            string bVet = vet[1];
+            string cVet = vet[2];
+            Console.WriteLine($"string aVet = vet[0] | aVet = {aVet}");
+            Console.WriteLine($"string bVet = vet[1] | bVet = {bVet}");
+            Console.WriteLine($"string cVet = vet[2] | cVet = {cVet}");
+            Console.WriteLine($"");
+            Console.WriteLine($"Fica mais facil ainda usando o Console.Readline e o Split diretamente na atribuição");
+            string[] vet2 = Console.ReadLine().Split(' ');
+            Console.WriteLine($"string[] vet2 = Console.ReadLine().Split(' ')");
+            string aVet2 = vet2[0];
+            string bVet2 = vet2[1];
+            string cVet2 = vet2[2];
+            Console.WriteLine($"string aVet2 = vet2[0] | aVet2 = {aVet2}");
+            Console.WriteLine($"string bVet2 = vet2[1] | bVet2 = {bVet2}");
+            Console.WriteLine($"string cVet2 = vet2[2] | cVet2 = {cVet2}");
+
+
+
+
+
 
 
             Console.WriteLine($"");
