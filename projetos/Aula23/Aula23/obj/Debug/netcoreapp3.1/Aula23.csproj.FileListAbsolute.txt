@@ -1,0 +1,13 @@
+R:\cursoCSharp\projetos\Aula23\Aula23\bin\Debug\netcoreapp3.1\Aula23.exe
+R:\cursoCSharp\projetos\Aula23\Aula23\bin\Debug\netcoreapp3.1\Aula23.deps.json
+R:\cursoCSharp\projetos\Aula23\Aula23\bin\Debug\netcoreapp3.1\Aula23.runtimeconfig.json
+R:\cursoCSharp\projetos\Aula23\Aula23\bin\Debug\netcoreapp3.1\Aula23.runtimeconfig.dev.json
+R:\cursoCSharp\projetos\Aula23\Aula23\bin\Debug\netcoreapp3.1\Aula23.dll
+R:\cursoCSharp\projetos\Aula23\Aula23\bin\Debug\netcoreapp3.1\Aula23.pdb
+R:\cursoCSharp\projetos\Aula23\Aula23\obj\Debug\netcoreapp3.1\Aula23.csprojAssemblyReference.cache
+R:\cursoCSharp\projetos\Aula23\Aula23\obj\Debug\netcoreapp3.1\Aula23.AssemblyInfoInputs.cache
+R:\cursoCSharp\projetos\Aula23\Aula23\obj\Debug\netcoreapp3.1\Aula23.AssemblyInfo.cs
+R:\cursoCSharp\projetos\Aula23\Aula23\obj\Debug\netcoreapp3.1\Aula23.csproj.CoreCompileInputs.cache
+R:\cursoCSharp\projetos\Aula23\Aula23\obj\Debug\netcoreapp3.1\Aula23.dll
+R:\cursoCSharp\projetos\Aula23\Aula23\obj\Debug\netcoreapp3.1\Aula23.pdb
+R:\cursoCSharp\projetos\Aula23\Aula23\obj\Debug\netcoreapp3.1\Aula23.genruntimeconfig.cache

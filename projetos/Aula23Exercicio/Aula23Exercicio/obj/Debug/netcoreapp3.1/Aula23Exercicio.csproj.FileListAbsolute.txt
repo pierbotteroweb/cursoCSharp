@@ -1,0 +1,13 @@
+R:\cursoCSharp\projetos\Aula23Exercicio\Aula23Exercicio\bin\Debug\netcoreapp3.1\Aula23Exercicio.exe
+R:\cursoCSharp\projetos\Aula23Exercicio\Aula23Exercicio\bin\Debug\netcoreapp3.1\Aula23Exercicio.deps.json
+R:\cursoCSharp\projetos\Aula23Exercicio\Aula23Exercicio\bin\Debug\netcoreapp3.1\Aula23Exercicio.runtimeconfig.json
+R:\cursoCSharp\projetos\Aula23Exercicio\Aula23Exercicio\bin\Debug\netcoreapp3.1\Aula23Exercicio.runtimeconfig.dev.json
+R:\cursoCSharp\projetos\Aula23Exercicio\Aula23Exercicio\bin\Debug\netcoreapp3.1\Aula23Exercicio.dll
+R:\cursoCSharp\projetos\Aula23Exercicio\Aula23Exercicio\bin\Debug\netcoreapp3.1\Aula23Exercicio.pdb
+R:\cursoCSharp\projetos\Aula23Exercicio\Aula23Exercicio\obj\Debug\netcoreapp3.1\Aula23Exercicio.csprojAssemblyReference.cache
+R:\cursoCSharp\projetos\Aula23Exercicio\Aula23Exercicio\obj\Debug\netcoreapp3.1\Aula23Exercicio.AssemblyInfoInputs.cache
+R:\cursoCSharp\projetos\Aula23Exercicio\Aula23Exercicio\obj\Debug\netcoreapp3.1\Aula23Exercicio.AssemblyInfo.cs
+R:\cursoCSharp\projetos\Aula23Exercicio\Aula23Exercicio\obj\Debug\netcoreapp3.1\Aula23Exercicio.csproj.CoreCompileInputs.cache
+R:\cursoCSharp\projetos\Aula23Exercicio\Aula23Exercicio\obj\Debug\netcoreapp3.1\Aula23Exercicio.dll
+R:\cursoCSharp\projetos\Aula23Exercicio\Aula23Exercicio\obj\Debug\netcoreapp3.1\Aula23Exercicio.pdb
+R:\cursoCSharp\projetos\Aula23Exercicio\Aula23Exercicio\obj\Debug\netcoreapp3.1\Aula23Exercicio.genruntimeconfig.cache
