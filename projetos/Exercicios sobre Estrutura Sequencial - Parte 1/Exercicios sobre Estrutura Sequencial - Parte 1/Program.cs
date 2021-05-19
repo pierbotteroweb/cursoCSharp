@@ -1,0 +1,141 @@
+﻿using System;
+using System.Globalization;
+
+namespace Exercicios_sobre_Estrutura_Sequencial___Parte_1 {
+    class Program {
+        static void Main(string[] args) {
+            Console.WriteLine("Exercício 01");
+            Console.WriteLine("");
+            Console.WriteLine("Faça um programa para ler dois valores inteiros,");
+            Console.WriteLine("e depois mostrar na tela a soma desses números com uma");
+            Console.WriteLine("mensagem explicativa, conforme exemplos.");
+            Console.WriteLine("");
+            Console.Write("Valor 01: ");
+            int v1 = int.Parse(Console.ReadLine());
+            Console.Write("Valor 02: ");
+            int v2 = int.Parse(Console.ReadLine());
+            int somaEx1 = v1 + v2;
+            Console.WriteLine($"SOMA = {somaEx1}");
+
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("Exercício 02");
+            Console.WriteLine("");
+            Console.WriteLine("Faça um programa para ler o valor do raio de um círculo,");
+            Console.WriteLine("e depois mostrar o valor da área deste círculo com quatro");
+            Console.WriteLine("casas decimais conforme exemplos.");
+            Console.WriteLine("");
+            Console.WriteLine("Fórmula da área: area = π . raio2");
+            Console.WriteLine("");
+            double pi = 3.14159;
+            Console.WriteLine($"Considere o valor de π = {pi:F4}");
+            Console.WriteLine("");
+            Console.Write("Valor do raio: ");
+            double raio = double.Parse(Console.ReadLine());
+            double area = pi * (Math.Pow(raio, 2));
+            Console.WriteLine($"ÁREA = {area:f4}");
+
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("Exercício 03");
+            Console.WriteLine("");
+            Console.WriteLine("Fazer um programa para ler quatro valores inteiros A, B, C e D.");
+            Console.WriteLine("A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D");
+            Console.WriteLine("segundo a fórmula: DIFERENCA = (A * B - C * D).");
+            Console.WriteLine("");
+            Console.Write("Valor A: ");
+            int A = int.Parse(Console.ReadLine());
+            Console.Write("Valor B: ");
+            int B = int.Parse(Console.ReadLine());
+            Console.Write("Valor C: ");
+            int C = int.Parse(Console.ReadLine());
+            Console.Write("Valor D: ");
+            int D = int.Parse(Console.ReadLine());
+            int dif = (A * B) - (C * D);
+            Console.WriteLine($"DIFERENÇA = {dif}");
+
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("Exercício 04");
+            Console.WriteLine("");
+            Console.WriteLine("Fazer um programa que leia o número de um funcionário,");
+            Console.WriteLine("seu número de horas trabalhadas, o valor que recebe por");
+            Console.WriteLine("hora e calcula o salário desse funcionário.");
+            Console.WriteLine("seguir, mostre o número e o salário do funcionário,");
+            Console.WriteLine("com duas casas decimais.");
+            Console.WriteLine("");
+            Console.Write("Número do Funcionário: ");
+            int numeroFuncionario = int.Parse(Console.ReadLine());
+            Console.Write("Horas trabalhadas: ");
+            int horas = int.Parse(Console.ReadLine());
+            Console.Write("Salario por hora: ");
+            float salarioPorHora = float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            float salario = horas * salarioPorHora;
+            Console.WriteLine($"Identificação do funcionário: {numeroFuncionario}");
+            Console.WriteLine($"Salário = U$ {salario:f2}");
+
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("Exercício 05");
+            Console.WriteLine("");
+            Console.WriteLine("Fazer um programa para ler o código de uma peça 1,");
+            Console.WriteLine("o número de peças 1, o valor unitário de cada peça 1,");
+            Console.WriteLine("o código de uma peça 2, o número de peças 2");
+            Console.WriteLine("e o valor unitário de cada peça 2.");
+            Console.WriteLine("Calcule e mostre o valor a ser pago.");
+            Console.WriteLine("");
+            Console.WriteLine("Informe código, quantidade e valor unitário: ");
+            Console.WriteLine("");
+            Console.Write("Peça 1: ");
+            string[] infoPeca1 = Console.ReadLine().Split(" ");
+            int CodPeca1 = int.Parse(infoPeca1[0]);
+            int QtdPeca1 = int.Parse(infoPeca1[1]);
+            float valorPeca1 = float.Parse(infoPeca1[2], CultureInfo.InvariantCulture);
+            float totalPeca1 = QtdPeca1 * valorPeca1;
+            Console.WriteLine("");
+            Console.Write("Peça 2: ");
+            string[] infoPeca2 = Console.ReadLine().Split(" ");
+            int CodPeca2 = int.Parse(infoPeca2[0]);
+            int QtdPeca2 = int.Parse(infoPeca2[1]);
+            float valorPeca2 = float.Parse(infoPeca2[2], CultureInfo.InvariantCulture);
+            float totalPeca2 = QtdPeca2 * valorPeca2;
+            float totalDevido = totalPeca1 + totalPeca2;
+            Console.WriteLine($"Valor a pagar: R$ {totalDevido:f2}");
+
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("Exercício 06");
+            Console.WriteLine("");
+            Console.WriteLine("Fazer um programa que leia três valores com ponto flutuante,");
+            Console.WriteLine("de dupla precisão: A, B e C. Em seguida, calcule e mostre:");
+            Console.WriteLine("");
+            Console.WriteLine("a) a área do triângulo retângulo que tem A por base e C por altura.");
+            Console.WriteLine("b) a área do círculo de raio C. (pi = 3.14159)");
+            Console.WriteLine("c) a área do trapézio que tem A e B por bases e C por altura.");
+            Console.WriteLine("d) a área do quadrado que tem lado B.");
+            Console.WriteLine("e) a área do retângulo que tem lados A e B.");
+            Console.WriteLine("");
+            string[] dados = Console.ReadLine().Split(" ");
+            float dadoA = float.Parse(dados[0], CultureInfo.InvariantCulture);
+            float dadoB = float.Parse(dados[1], CultureInfo.InvariantCulture);
+            float dadoC = float.Parse(dados[2], CultureInfo.InvariantCulture);
+            float triangulo = (dadoA * dadoC)/2;
+            // pi já está declarado no projeto;
+            double circulo = pi*Math.Pow((double)dadoC, 2);
+            float trapezio = dadoC * ((dadoA + dadoB) / 2);
+            double quadrado = Math.Pow(dadoB, 2);
+            double retangulo = dadoA * dadoB;
+            Console.WriteLine($"TRIANGULO: {triangulo:f3}");
+            Console.WriteLine($"CIRCULO: {circulo:f3}");
+            Console.WriteLine($"TRAPEZIO: {trapezio:f3}");
+            Console.WriteLine($"QUADRADO: {quadrado:f3}");
+            Console.WriteLine($"RETANGULO: {retangulo:f3}");
+
+        }
+    }
+}

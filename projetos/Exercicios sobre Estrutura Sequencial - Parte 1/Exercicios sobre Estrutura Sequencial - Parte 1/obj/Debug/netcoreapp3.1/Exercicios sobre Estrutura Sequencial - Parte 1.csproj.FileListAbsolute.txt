@@ -1,0 +1,13 @@
+R:\cursoCSharp\projetos\Exercicios sobre Estrutura Sequencial - Parte 1\Exercicios sobre Estrutura Sequencial - Parte 1\bin\Debug\netcoreapp3.1\Exercicios sobre Estrutura Sequencial - Parte 1.exe
+R:\cursoCSharp\projetos\Exercicios sobre Estrutura Sequencial - Parte 1\Exercicios sobre Estrutura Sequencial - Parte 1\bin\Debug\netcoreapp3.1\Exercicios sobre Estrutura Sequencial - Parte 1.deps.json
+R:\cursoCSharp\projetos\Exercicios sobre Estrutura Sequencial - Parte 1\Exercicios sobre Estrutura Sequencial - Parte 1\bin\Debug\netcoreapp3.1\Exercicios sobre Estrutura Sequencial - Parte 1.runtimeconfig.json
+R:\cursoCSharp\projetos\Exercicios sobre Estrutura Sequencial - Parte 1\Exercicios sobre Estrutura Sequencial - Parte 1\bin\Debug\netcoreapp3.1\Exercicios sobre Estrutura Sequencial - Parte 1.runtimeconfig.dev.json
+R:\cursoCSharp\projetos\Exercicios sobre Estrutura Sequencial - Parte 1\Exercicios sobre Estrutura Sequencial - Parte 1\bin\Debug\netcoreapp3.1\Exercicios sobre Estrutura Sequencial - Parte 1.dll
+R:\cursoCSharp\projetos\Exercicios sobre Estrutura Sequencial - Parte 1\Exercicios sobre Estrutura Sequencial - Parte 1\bin\Debug\netcoreapp3.1\Exercicios sobre Estrutura Sequencial - Parte 1.pdb
+R:\cursoCSharp\projetos\Exercicios sobre Estrutura Sequencial - Parte 1\Exercicios sobre Estrutura Sequencial - Parte 1\obj\Debug\netcoreapp3.1\Exercicios sobre Estrutura Sequencial - Parte 1.csprojAssemblyReference.cache
+R:\cursoCSharp\projetos\Exercicios sobre Estrutura Sequencial - Parte 1\Exercicios sobre Estrutura Sequencial - Parte 1\obj\Debug\netcoreapp3.1\Exercicios sobre Estrutura Sequencial - Parte 1.AssemblyInfoInputs.cache
+R:\cursoCSharp\projetos\Exercicios sobre Estrutura Sequencial - Parte 1\Exercicios sobre Estrutura Sequencial - Parte 1\obj\Debug\netcoreapp3.1\Exercicios sobre Estrutura Sequencial - Parte 1.AssemblyInfo.cs
+R:\cursoCSharp\projetos\Exercicios sobre Estrutura Sequencial - Parte 1\Exercicios sobre Estrutura Sequencial - Parte 1\obj\Debug\netcoreapp3.1\Exercicios sobre Estrutura Sequencial - Parte 1.csproj.CoreCompileInputs.cache
+R:\cursoCSharp\projetos\Exercicios sobre Estrutura Sequencial - Parte 1\Exercicios sobre Estrutura Sequencial - Parte 1\obj\Debug\netcoreapp3.1\Exercicios sobre Estrutura Sequencial - Parte 1.dll
+R:\cursoCSharp\projetos\Exercicios sobre Estrutura Sequencial - Parte 1\Exercicios sobre Estrutura Sequencial - Parte 1\obj\Debug\netcoreapp3.1\Exercicios sobre Estrutura Sequencial - Parte 1.pdb
+R:\cursoCSharp\projetos\Exercicios sobre Estrutura Sequencial - Parte 1\Exercicios sobre Estrutura Sequencial - Parte 1\obj\Debug\netcoreapp3.1\Exercicios sobre Estrutura Sequencial - Parte 1.genruntimeconfig.cache
