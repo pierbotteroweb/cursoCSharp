@@ -1,0 +1,13 @@
+R:\cursoCSharp\projetos\Course Operadores Comparativos\Course Operadores Comparativos\bin\Debug\netcoreapp3.1\Course Operadores Comparativos.exe
+R:\cursoCSharp\projetos\Course Operadores Comparativos\Course Operadores Comparativos\bin\Debug\netcoreapp3.1\Course Operadores Comparativos.deps.json
+R:\cursoCSharp\projetos\Course Operadores Comparativos\Course Operadores Comparativos\bin\Debug\netcoreapp3.1\Course Operadores Comparativos.runtimeconfig.json
+R:\cursoCSharp\projetos\Course Operadores Comparativos\Course Operadores Comparativos\bin\Debug\netcoreapp3.1\Course Operadores Comparativos.runtimeconfig.dev.json
+R:\cursoCSharp\projetos\Course Operadores Comparativos\Course Operadores Comparativos\bin\Debug\netcoreapp3.1\Course Operadores Comparativos.dll
+R:\cursoCSharp\projetos\Course Operadores Comparativos\Course Operadores Comparativos\bin\Debug\netcoreapp3.1\Course Operadores Comparativos.pdb
+R:\cursoCSharp\projetos\Course Operadores Comparativos\Course Operadores Comparativos\obj\Debug\netcoreapp3.1\Course Operadores Comparativos.csprojAssemblyReference.cache
+R:\cursoCSharp\projetos\Course Operadores Comparativos\Course Operadores Comparativos\obj\Debug\netcoreapp3.1\Course Operadores Comparativos.AssemblyInfoInputs.cache
+R:\cursoCSharp\projetos\Course Operadores Comparativos\Course Operadores Comparativos\obj\Debug\netcoreapp3.1\Course Operadores Comparativos.AssemblyInfo.cs
+R:\cursoCSharp\projetos\Course Operadores Comparativos\Course Operadores Comparativos\obj\Debug\netcoreapp3.1\Course Operadores Comparativos.csproj.CoreCompileInputs.cache
+R:\cursoCSharp\projetos\Course Operadores Comparativos\Course Operadores Comparativos\obj\Debug\netcoreapp3.1\Course Operadores Comparativos.dll
+R:\cursoCSharp\projetos\Course Operadores Comparativos\Course Operadores Comparativos\obj\Debug\netcoreapp3.1\Course Operadores Comparativos.pdb
+R:\cursoCSharp\projetos\Course Operadores Comparativos\Course Operadores Comparativos\obj\Debug\netcoreapp3.1\Course Operadores Comparativos.genruntimeconfig.cache

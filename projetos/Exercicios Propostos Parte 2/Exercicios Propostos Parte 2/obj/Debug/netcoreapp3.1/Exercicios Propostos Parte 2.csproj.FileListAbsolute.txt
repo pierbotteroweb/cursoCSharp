@@ -1,0 +1,13 @@
+R:\cursoCSharp\projetos\Exercicios Propostos Parte 2\Exercicios Propostos Parte 2\bin\Debug\netcoreapp3.1\Exercicios Propostos Parte 2.exe
+R:\cursoCSharp\projetos\Exercicios Propostos Parte 2\Exercicios Propostos Parte 2\bin\Debug\netcoreapp3.1\Exercicios Propostos Parte 2.deps.json
+R:\cursoCSharp\projetos\Exercicios Propostos Parte 2\Exercicios Propostos Parte 2\bin\Debug\netcoreapp3.1\Exercicios Propostos Parte 2.runtimeconfig.json
+R:\cursoCSharp\projetos\Exercicios Propostos Parte 2\Exercicios Propostos Parte 2\bin\Debug\netcoreapp3.1\Exercicios Propostos Parte 2.runtimeconfig.dev.json
+R:\cursoCSharp\projetos\Exercicios Propostos Parte 2\Exercicios Propostos Parte 2\bin\Debug\netcoreapp3.1\Exercicios Propostos Parte 2.dll
+R:\cursoCSharp\projetos\Exercicios Propostos Parte 2\Exercicios Propostos Parte 2\bin\Debug\netcoreapp3.1\Exercicios Propostos Parte 2.pdb
+R:\cursoCSharp\projetos\Exercicios Propostos Parte 2\Exercicios Propostos Parte 2\obj\Debug\netcoreapp3.1\Exercicios Propostos Parte 2.csprojAssemblyReference.cache
+R:\cursoCSharp\projetos\Exercicios Propostos Parte 2\Exercicios Propostos Parte 2\obj\Debug\netcoreapp3.1\Exercicios Propostos Parte 2.AssemblyInfoInputs.cache
+R:\cursoCSharp\projetos\Exercicios Propostos Parte 2\Exercicios Propostos Parte 2\obj\Debug\netcoreapp3.1\Exercicios Propostos Parte 2.AssemblyInfo.cs
+R:\cursoCSharp\projetos\Exercicios Propostos Parte 2\Exercicios Propostos Parte 2\obj\Debug\netcoreapp3.1\Exercicios Propostos Parte 2.csproj.CoreCompileInputs.cache
+R:\cursoCSharp\projetos\Exercicios Propostos Parte 2\Exercicios Propostos Parte 2\obj\Debug\netcoreapp3.1\Exercicios Propostos Parte 2.dll
+R:\cursoCSharp\projetos\Exercicios Propostos Parte 2\Exercicios Propostos Parte 2\obj\Debug\netcoreapp3.1\Exercicios Propostos Parte 2.pdb
+R:\cursoCSharp\projetos\Exercicios Propostos Parte 2\Exercicios Propostos Parte 2\obj\Debug\netcoreapp3.1\Exercicios Propostos Parte 2.genruntimeconfig.cache

@@ -135,7 +135,6 @@ namespace Exercicios_sobre_Estrutura_Sequencial___Parte_1 {
             Console.WriteLine($"TRAPEZIO: {trapezio:f3}");
             Console.WriteLine($"QUADRADO: {quadrado:f3}");
             Console.WriteLine($"RETANGULO: {retangulo:f3}");
-
         }
     }
 }

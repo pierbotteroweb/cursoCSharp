@@ -1,0 +1,13 @@
+R:\cursoCSharp\projetos\Funções - sintaxe\Funções - sintaxe\bin\Debug\netcoreapp3.1\Funções - sintaxe.exe
+R:\cursoCSharp\projetos\Funções - sintaxe\Funções - sintaxe\bin\Debug\netcoreapp3.1\Funções - sintaxe.deps.json
+R:\cursoCSharp\projetos\Funções - sintaxe\Funções - sintaxe\bin\Debug\netcoreapp3.1\Funções - sintaxe.runtimeconfig.json
+R:\cursoCSharp\projetos\Funções - sintaxe\Funções - sintaxe\bin\Debug\netcoreapp3.1\Funções - sintaxe.runtimeconfig.dev.json
+R:\cursoCSharp\projetos\Funções - sintaxe\Funções - sintaxe\bin\Debug\netcoreapp3.1\Funções - sintaxe.dll
+R:\cursoCSharp\projetos\Funções - sintaxe\Funções - sintaxe\bin\Debug\netcoreapp3.1\Funções - sintaxe.pdb
+R:\cursoCSharp\projetos\Funções - sintaxe\Funções - sintaxe\obj\Debug\netcoreapp3.1\Funções - sintaxe.csprojAssemblyReference.cache
+R:\cursoCSharp\projetos\Funções - sintaxe\Funções - sintaxe\obj\Debug\netcoreapp3.1\Funções - sintaxe.AssemblyInfoInputs.cache
+R:\cursoCSharp\projetos\Funções - sintaxe\Funções - sintaxe\obj\Debug\netcoreapp3.1\Funções - sintaxe.AssemblyInfo.cs
+R:\cursoCSharp\projetos\Funções - sintaxe\Funções - sintaxe\obj\Debug\netcoreapp3.1\Funções - sintaxe.csproj.CoreCompileInputs.cache
+R:\cursoCSharp\projetos\Funções - sintaxe\Funções - sintaxe\obj\Debug\netcoreapp3.1\Funções - sintaxe.dll
+R:\cursoCSharp\projetos\Funções - sintaxe\Funções - sintaxe\obj\Debug\netcoreapp3.1\Funções - sintaxe.pdb
+R:\cursoCSharp\projetos\Funções - sintaxe\Funções - sintaxe\obj\Debug\netcoreapp3.1\Funções - sintaxe.genruntimeconfig.cache
