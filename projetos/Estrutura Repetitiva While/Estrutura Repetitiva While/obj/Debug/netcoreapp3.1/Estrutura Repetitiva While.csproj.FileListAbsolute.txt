@@ -1,0 +1,13 @@
+R:\cursoCSharp\projetos\Estrutura Repetitiva While\Estrutura Repetitiva While\obj\Debug\netcoreapp3.1\Estrutura Repetitiva While.csprojAssemblyReference.cache
+R:\cursoCSharp\projetos\Estrutura Repetitiva While\Estrutura Repetitiva While\obj\Debug\netcoreapp3.1\Estrutura Repetitiva While.AssemblyInfoInputs.cache
+R:\cursoCSharp\projetos\Estrutura Repetitiva While\Estrutura Repetitiva While\obj\Debug\netcoreapp3.1\Estrutura Repetitiva While.AssemblyInfo.cs
+R:\cursoCSharp\projetos\Estrutura Repetitiva While\Estrutura Repetitiva While\obj\Debug\netcoreapp3.1\Estrutura Repetitiva While.csproj.CoreCompileInputs.cache
+R:\cursoCSharp\projetos\Estrutura Repetitiva While\Estrutura Repetitiva While\bin\Debug\netcoreapp3.1\Estrutura Repetitiva While.exe
+R:\cursoCSharp\projetos\Estrutura Repetitiva While\Estrutura Repetitiva While\bin\Debug\netcoreapp3.1\Estrutura Repetitiva While.deps.json
+R:\cursoCSharp\projetos\Estrutura Repetitiva While\Estrutura Repetitiva While\bin\Debug\netcoreapp3.1\Estrutura Repetitiva While.runtimeconfig.json
+R:\cursoCSharp\projetos\Estrutura Repetitiva While\Estrutura Repetitiva While\bin\Debug\netcoreapp3.1\Estrutura Repetitiva While.runtimeconfig.dev.json
+R:\cursoCSharp\projetos\Estrutura Repetitiva While\Estrutura Repetitiva While\bin\Debug\netcoreapp3.1\Estrutura Repetitiva While.dll
+R:\cursoCSharp\projetos\Estrutura Repetitiva While\Estrutura Repetitiva While\bin\Debug\netcoreapp3.1\Estrutura Repetitiva While.pdb
+R:\cursoCSharp\projetos\Estrutura Repetitiva While\Estrutura Repetitiva While\obj\Debug\netcoreapp3.1\Estrutura Repetitiva While.dll
+R:\cursoCSharp\projetos\Estrutura Repetitiva While\Estrutura Repetitiva While\obj\Debug\netcoreapp3.1\Estrutura Repetitiva While.pdb
+R:\cursoCSharp\projetos\Estrutura Repetitiva While\Estrutura Repetitiva While\obj\Debug\netcoreapp3.1\Estrutura Repetitiva While.genruntimeconfig.cache
